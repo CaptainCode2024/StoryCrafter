@@ -4,20 +4,20 @@
 
 ![StoryCrafter Cover](CoverImage/cover.png)
 
-## Features
+## ✨ Features
 
 - **Story Generation**: Generate a unique story based on the user’s prompt.
 - **Interactive UI**: A user-friendly interface built with Streamlit.
 - **AI-driven**: Uses Hugging Face’s transformer models for story creation.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **Python**: Main programming language for backend logic.
 - **Streamlit**: Framework for building the interactive user interface.
 - **PyTorch**: Framework for AI model integration.
 - **Transformers (Hugging Face)**: Pretrained models for story generation.
 
-## 🛠️ Installation
+## ⚙️ Installation
 
 Follow the steps below to set up and run the app on your local system:
 
