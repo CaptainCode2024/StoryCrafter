@@ -2,7 +2,7 @@
 
 **StoryCrafter** is an interactive storytelling application that generates unique stories based on user input, powered by AI.
 
-![Cover Image](./cover.png)
+![StoryCrafter Cover](CoverImage/cover.png)
 
 ## Features
 
